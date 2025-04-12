@@ -1,0 +1,15 @@
+
+{
+     "port_as_services": {
+          "DNS": 53,
+          "DHCP": 67,
+          "TFTP": 69,
+          "Kerboros": 88,
+          "NTP": 123,
+          "NetBIOS": 137,
+          "SNMP": 161,
+          "LDAP": 389,
+          "RIP": 520,
+          "Syslog": 514
+     }
+}

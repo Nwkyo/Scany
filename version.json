@@ -1,0 +1,4 @@
+{
+  "scan_mode": ["TCP","UDP","ICMP"],
+  "version": "0.0.01"
+}

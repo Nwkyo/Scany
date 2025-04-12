@@ -1,0 +1,15 @@
+{
+     "port_as_services": {
+          "ftp": 21,
+          "ssh": 22,
+          "telnet": 23,
+          "smtp": 25,
+          "http": 80,
+          "https": 443,
+          "MSSQL": 1433,
+          "MYSQL": 3306,
+          "PostgreSQL": 5432,
+          "Redis": 6379,
+          "MongoDB": 27017
+     }
+}
